@@ -1,0 +1,12 @@
+{
+  "name": "sclib",
+  "version": "0.0.1",
+  "description": "Common js utilities to simplify learning",
+  "main": "index.js",
+  "repository": "https://github.com/stonecampus/sclib.git",
+  "author": "stonecampus <stone@mytraces.net>",
+  "license": "MIT",
+  "dependencies": {
+    "uvwlib": "^0.0.2"
+  }
+}
